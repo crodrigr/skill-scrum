@@ -19,6 +19,10 @@ Resultados de aprendizaje de la clase:
 
 _Resultados de aprendizaje: RA-1_
 
+> 🔗 **Ejemplos de este concepto**
+>
+> - [Ejemplo 01 — El valor de una metodología](01-valor-de-una-metodologia.md): El valor de una metodología en una tienda en línea.
+
 ### 🌍 Contexto
 
 Construir software es un trabajo de equipo: hay que decidir qué se hace, en qué orden, quién
@@ -55,6 +59,10 @@ formal: la completamos después de conocer las tradicionales, para poder contras
 ## 📜 Manifiesto ágil
 
 _Resultados de aprendizaje: RA-2_
+
+> 🔗 **Ejemplos de este concepto**
+>
+> - [Ejemplo 02 — El manifiesto ágil en acción](02-manifiesto-en-accion.md): Valores y temas de principios ante un cambio de requisitos.
 
 ### 🌍 Contexto
 
@@ -143,6 +151,11 @@ cambiaría.
 
 _Resultados de aprendizaje: RA-3_
 
+> 🔗 **Ejemplos de este concepto**
+>
+> - [Ejemplo 02 — El manifiesto ágil en acción](02-manifiesto-en-accion.md): Ventajas y desventajas que se materializan en un equipo.
+> - [Ejemplo 05 — Comparar y elegir un enfoque](05-comparar-y-elegir.md): Ventajas y desventajas al elegir un enfoque.
+
 ### 🌍 Contexto
 
 Ninguna metodología es buena en todos los casos. Antes de elegir, hay que saber qué se gana y
@@ -170,6 +183,10 @@ cortos y se documenta lo necesario; lo que cambia es qué pesa más cuando hay q
 ## 🏛️ Metodologías tradicionales
 
 _Resultados de aprendizaje: RA-4_
+
+> 🔗 **Ejemplos de este concepto**
+>
+> - [Ejemplo 03 — Un mismo proyecto con metodologías tradicionales](03-metodologias-tradicionales.md): Cascada, Prototipado y Espiral aplicados a un mismo proyecto.
 
 ### 🌍 Contexto
 
@@ -234,6 +251,10 @@ vuelta se repiten cuatro actividades:
 ## ⚡ Metodologías ágiles
 
 _Resultados de aprendizaje: RA-5_
+
+> 🔗 **Ejemplos de este concepto**
+>
+> - [Ejemplo 04 — El mismo proyecto con metodologías ágiles](04-metodologias-agiles.md): Kanban, Lean y XP aplicados al mismo proyecto.
 
 ### 🌍 Contexto
 
@@ -308,6 +329,10 @@ respeto. Prácticas distintivas:
 ## 🔀 Comparar y elegir
 
 _Resultados de aprendizaje: RA-6_
+
+> 🔗 **Ejemplos de este concepto**
+>
+> - [Ejemplo 05 — Comparar y elegir un enfoque](05-comparar-y-elegir.md): Dos casos, una tabla de criterios y una decisión.
 
 ### 🌍 Contexto
 
