@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Metodología tradicional frente a metodología ágil</title>
+<desc id="d">A la izquierda, fases secuenciales con una entrega grande al final. A la derecha, ciclos cortos con entregas pequeñas y frecuentes.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="898" height="438" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="220" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Tradicional</text>
+<text x="680" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Ágil</text>
+<line x1="450" y1="60" x2="450" y2="400" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 6"/>
+<rect x="30" y="70" width="170" height="42" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="115.0" y="96.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Requisitos</text>
+<rect x="64" y="122" width="170" height="42" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="149.0" y="148.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Diseño</text>
+<rect x="98" y="174" width="170" height="42" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="183.0" y="200.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Implementación</text>
+<rect x="132" y="226" width="170" height="42" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="217.0" y="252.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Pruebas</text>
+<rect x="166" y="278" width="170" height="42" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="251.0" y="304.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Despliegue</text>
+<text x="220" y="355" text-anchor="middle" font-size="14" font-weight="400" fill="#64748b">Fases secuenciales</text>
+<rect x="120" y="372" width="200" height="44" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="220.0" y="398.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Entrega única, al final</text>
+<rect x="470" y="80" width="84" height="110" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="512.0" y="113.7" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">Ciclo 1</text>
+<text x="512.0" y="130.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">planificar</text>
+<text x="512.0" y="147.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">construir</text>
+<text x="512.0" y="164.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">probar</text>
+<path d="M512 192 V232" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="470" y="236" width="84" height="44" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="512.0" y="262.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Entrega</text>
+<path d="M554 135 H580" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="582" y="80" width="84" height="110" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="624.0" y="113.7" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">Ciclo 2</text>
+<text x="624.0" y="130.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">planificar</text>
+<text x="624.0" y="147.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">construir</text>
+<text x="624.0" y="164.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">probar</text>
+<path d="M624 192 V232" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="582" y="236" width="84" height="44" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="624.0" y="262.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Entrega</text>
+<path d="M666 135 H692" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="694" y="80" width="84" height="110" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="736.0" y="113.7" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">Ciclo 3</text>
+<text x="736.0" y="130.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">planificar</text>
+<text x="736.0" y="147.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">construir</text>
+<text x="736.0" y="164.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">probar</text>
+<path d="M736 192 V232" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="694" y="236" width="84" height="44" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="736.0" y="262.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Entrega</text>
+<path d="M778 135 H804" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="806" y="80" width="84" height="110" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="848.0" y="113.7" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">Ciclo 4</text>
+<text x="848.0" y="130.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">planificar</text>
+<text x="848.0" y="147.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">construir</text>
+<text x="848.0" y="164.7" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">probar</text>
+<path d="M848 192 V232" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="806" y="236" width="84" height="44" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="848.0" y="262.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Entrega</text>
+<text x="680" y="320" text-anchor="middle" font-size="14" font-weight="400" fill="#64748b">Ciclos cortos y adaptables</text>
+<rect x="520" y="350" width="320" height="60" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="680.0" y="375.4" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Entregas pequeñas y frecuentes</text>
+<text x="680.0" y="394.4" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2937">el cambio es bienvenido</text>
+</svg>

@@ -43,3 +43,5 @@ qué sirve, quién participa, cuánto dura como máximo y qué produce.
 
 > 📌 La revisión inspecciona **el producto**; la retrospectiva inspecciona **la forma de
 > trabajar**.
+
+![Un sprint de dos semanas con sus cuatro reuniones y sus tiempos máximos.](../imagenes/reuniones-sprint.svg)

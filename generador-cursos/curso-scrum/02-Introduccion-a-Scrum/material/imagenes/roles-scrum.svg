@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Roles del equipo Scrum</title>
+<desc id="d">El equipo Scrum es pequeño, autogestionado y multifuncional, y está formado por el Product Owner, el Scrum Master y los Developers, cada uno con sus responsabilidades.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="898" height="378" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="30" y="20" width="840" height="340" rx="16" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="450" y="50" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">Equipo Scrum: pequeño (10 personas o menos) · autogestionado · multifuncional</text>
+<rect x="45" y="80" width="250" height="250" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="170" y="118" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Product Owner</text>
+<text x="170" y="142" text-anchor="middle" font-size="14" font-weight="400" fill="#64748b">dueño del producto</text>
+<circle cx="69" cy="186" r="4" fill="#2563eb"/>
+<text x="83" y="190" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Maximiza el valor del producto</text>
+<circle cx="69" cy="226" r="4" fill="#2563eb"/>
+<text x="83" y="230" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Gestiona la lista del producto</text>
+<circle cx="69" cy="266" r="4" fill="#2563eb"/>
+<text x="83" y="270" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Es una sola persona</text>
+<rect x="320" y="80" width="250" height="250" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="445" y="118" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Scrum Master</text>
+<text x="445" y="142" text-anchor="middle" font-size="14" font-weight="400" fill="#64748b">facilitador del equipo</text>
+<circle cx="344" cy="186" r="4" fill="#0d9488"/>
+<text x="358" y="190" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Establece Scrum</text>
+<circle cx="344" cy="226" r="4" fill="#0d9488"/>
+<text x="358" y="230" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Quita impedimentos</text>
+<circle cx="344" cy="266" r="4" fill="#0d9488"/>
+<text x="358" y="270" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Líder que sirve, no es jefe</text>
+<rect x="595" y="80" width="250" height="250" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="720" y="118" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Developers</text>
+<text x="720" y="142" text-anchor="middle" font-size="14" font-weight="400" fill="#64748b">desarrolladores</text>
+<circle cx="619" cy="186" r="4" fill="#d97706"/>
+<text x="633" y="190" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Crean el incremento</text>
+<circle cx="619" cy="226" r="4" fill="#d97706"/>
+<text x="633" y="230" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Deciden cómo construir</text>
+<circle cx="619" cy="266" r="4" fill="#d97706"/>
+<text x="633" y="270" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937">Se autoorganizan</text>
+</svg>

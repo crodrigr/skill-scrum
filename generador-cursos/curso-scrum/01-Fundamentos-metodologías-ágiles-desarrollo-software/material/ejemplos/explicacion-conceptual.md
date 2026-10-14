@@ -89,6 +89,8 @@ principios**.
 > más los de la izquierda". No dice que no haya procesos, documentación, contratos ni
 > planes: dice qué pesa más cuando hay que decidir.
 
+![Los cuatro valores del manifiesto ágil, cada uno en la forma A sobre B: individuos e interacciones sobre procesos y herramientas; software funcionando sobre documentación extensiva; colaboración con el cliente sobre negociación contractual; respuesta ante el cambio sobre seguir un plan.](../imagenes/valores-manifiesto.svg)
+
 ### 📖 Explicación
 
 **Los doce principios**, agrupados en cinco temas (con una frase por principio):
@@ -218,6 +220,8 @@ la fase siguiente hasta terminar la anterior.
   presentaba el esquema secuencial como arriesgado y proponía iterar; la versión rígida se
   popularizó después.
 
+![Fases de Cascada en escalera: requisitos, diseño, implementación, pruebas, y despliegue y mantenimiento.](../imagenes/cascada.svg)
+
 **Prototipado.** Se construyen **prototipos** —versiones simples de partes del sistema—
 para que el cliente los pruebe y aclare lo que realmente necesita, antes de construir el
 producto final.
@@ -239,6 +243,8 @@ vuelta se repiten cuatro actividades:
 - _Conviene_ en proyectos grandes y con riesgos técnicos o de negocio importantes.
 - _Limitaciones_: exige experiencia en análisis de riesgos y puede resultar costoso o
   complejo para proyectos pequeños.
+
+![Modelo en espiral: vueltas con cuatro actividades: determinar objetivos, evaluar y reducir riesgos, desarrollar y verificar, y planificar la siguiente vuelta.](../imagenes/espiral.svg)
 
 | | Cascada | Prototipado | Espiral |
 |---|---|---|---|
@@ -274,6 +280,8 @@ cortos, trabaja en estrecha colaboración con el cliente y se adapta al cambio.
 | Cambio | Costoso | Esperado y bienvenido |
 | Cliente | Participa al inicio y al final | Participa durante todo el proyecto |
 
+![Comparación: a la izquierda, fases secuenciales con una única entrega al final; a la derecha, ciclos cortos con entregas pequeñas y frecuentes.](../imagenes/tradicional-vs-agil.svg)
+
 ### 📖 Explicación
 
 Existen varios enfoques ágiles. Aquí vemos tres; otros marcos se estudian más adelante.
@@ -291,6 +299,8 @@ del trabajo. Sus prácticas centrales:
 - _Conviene_ cuando el trabajo llega de manera continua e impredecible (por ejemplo, soporte
   o mantenimiento).
 - _Limitaciones_: sin ciclos fijos, no da por sí solo un ritmo de planificación y entrega.
+
+![Tablero Kanban con las columnas por hacer, en curso (límite 3), probando (límite 2, alcanzado) y hecho.](../imagenes/kanban-tablero.svg)
 
 **Lean.** Es una **filosofía** de gestión, heredada del sistema de producción de Toyota y
 adaptada al software por Mary y Tom Poppendieck. No es un método con prácticas propias: es

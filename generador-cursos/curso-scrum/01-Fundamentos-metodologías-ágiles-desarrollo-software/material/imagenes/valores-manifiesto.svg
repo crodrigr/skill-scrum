@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Los cuatro valores del manifiesto ágil</title>
+<desc id="d">Cada valor se lee A sobre B: individuos e interacciones sobre procesos y herramientas; software funcionando sobre documentación extensiva; colaboración con el cliente sobre negociación contractual; respuesta ante el cambio sobre seguir un plan.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="898" height="418" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="450" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Los cuatro valores del manifiesto ágil</text>
+<rect x="30" y="64" width="400" height="60" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="230.0" y="100.3" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Individuos e interacciones</text>
+<text x="470" y="100" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">sobre</text>
+<rect x="510" y="72" width="360" height="44" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="690.0" y="99.25" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">procesos y herramientas</text>
+<rect x="30" y="144" width="400" height="60" rx="10" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="230.0" y="180.3" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Software funcionando</text>
+<text x="470" y="180" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">sobre</text>
+<rect x="510" y="152" width="360" height="44" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="690.0" y="179.25" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">documentación extensiva</text>
+<rect x="30" y="224" width="400" height="60" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="230.0" y="260.3" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Colaboración con el cliente</text>
+<text x="470" y="260" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">sobre</text>
+<rect x="510" y="232" width="360" height="44" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="690.0" y="259.25" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">negociación contractual</text>
+<rect x="30" y="304" width="400" height="60" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="230.0" y="340.3" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Respuesta ante el cambio</text>
+<text x="470" y="340" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">sobre</text>
+<rect x="510" y="312" width="360" height="44" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="690.0" y="339.25" text-anchor="middle" font-size="15" font-weight="400" fill="#64748b">seguir un plan</text>
+<text x="450" y="400" text-anchor="middle" font-size="13" font-weight="400" fill="#64748b">Se valoran los dos lados, pero más el de la izquierda.</text>
+</svg>

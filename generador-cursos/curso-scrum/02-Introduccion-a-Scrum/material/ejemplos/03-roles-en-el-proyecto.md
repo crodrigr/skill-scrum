@@ -52,3 +52,5 @@ Estas son seis situaciones que ocurrieron en las primeras semanas:
 | d | *Scrum Master* | Asegura que las reuniones se hagan |
 | e | *Developers* | Eligen cuánto pueden terminar |
 | f | *Product Owner* | Gestiona la lista del producto |
+
+![El equipo Scrum con sus tres roles y sus responsabilidades.](../imagenes/roles-scrum.svg)

@@ -42,3 +42,5 @@ las prioridades cambien. El equipo analiza tres enfoques ágiles.
 | Idea central | Visualizar y limitar el flujo | Eliminar desperdicio y entregar valor | Calidad técnica y colaboración |
 | Qué se vio en el sistema de turnos | Tablero con límite de trabajo en curso | Quitar esperas y funciones no pedidas | Parejas, pruebas primero e integración continua |
 | Tipo | Método de gestión del flujo | Filosofía | Conjunto de prácticas de ingeniería |
+
+![Tablero Kanban con las columnas por hacer, en curso (límite 3), probando (límite 2, alcanzado) y hecho.](../imagenes/kanban-tablero.svg)

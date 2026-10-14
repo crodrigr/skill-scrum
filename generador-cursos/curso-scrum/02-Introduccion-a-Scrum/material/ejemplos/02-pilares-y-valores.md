@@ -49,3 +49,5 @@ durante un sprint:
 
 > 📌 Estos pilares y valores son los de **Scrum**; no son los cuatro valores del manifiesto ágil
 > de la Clase 01.
+
+![Los tres pilares de Scrum apoyados en los cinco valores.](../imagenes/pilares-valores-scrum.svg)

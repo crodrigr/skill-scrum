@@ -147,6 +147,8 @@ tres pilares y cinco valores.
 | **Respeto** | Se respetan como personas capaces e independientes |
 | **Coraje** | Se animan a hacer lo correcto y a trabajar en problemas difíciles |
 
+![Los tres pilares de Scrum —transparencia, inspección y adaptación— apoyados en los cinco valores: compromiso, enfoque, apertura, respeto y coraje.](../imagenes/pilares-valores-scrum.svg)
+
 ### 📖 Explicación
 
 Los pilares funcionan juntos: sin **transparencia** no se puede **inspeccionar**, y sin
@@ -185,6 +187,8 @@ No hay subequipos ni jerarquías dentro de él.
 | ***Product Owner*** (dueño del producto) | Maximizar el valor del producto | Gestiona la lista del producto: comunica el objetivo del producto, ordena los elementos y se asegura de que sea transparente |
 | ***Scrum Master*** (facilitador del equipo) | Establecer Scrum y la efectividad del equipo | Ayuda a todos a entender Scrum, quita impedimentos y asegura que las reuniones se hagan y sean productivas |
 | ***Developers*** (desarrolladores) | Crear un incremento utilizable en cada sprint | Planifican el sprint, construyen con calidad, adaptan su plan cada día y se responsabilizan mutuamente |
+
+![El equipo Scrum, pequeño, autogestionado y multifuncional: Product Owner, Scrum Master y Developers, cada uno con sus responsabilidades.](../imagenes/roles-scrum.svg)
 
 ### 📖 Explicación
 
@@ -233,6 +237,8 @@ Tres **artefactos** (con un **compromiso** cada uno) dan transparencia al trabaj
 | ***Product Backlog*** (lista del producto) | Lista ordenada de lo que se necesita para mejorar el producto | **Objetivo del producto**: la meta a largo plazo |
 | ***Sprint Backlog*** (lista del sprint) | Objetivo del sprint, elementos elegidos y plan para entregarlos | **Objetivo del sprint**: el propósito del sprint |
 | ***Increment*** (incremento) | Un paso concreto y utilizable hacia el objetivo del producto | ***Definition of Done*** (definición de terminado): cuándo algo está terminado |
+
+![Flujo de un sprint: lista del producto, planificación, sprint con reunión diaria, incremento, revisión y retrospectiva, y vuelta a empezar.](../imagenes/flujo-sprint.svg)
 
 ### 📖 Explicación
 
@@ -284,6 +290,8 @@ Las cuatro reuniones, además del sprint que las contiene:
 > 📌 Los máximos de la tabla son para un **sprint de un mes**. En sprints más cortos, las
 > reuniones son proporcionalmente más breves. En los ejemplos de esta clase usamos sprints de
 > **dos semanas**.
+
+![Línea de tiempo de un sprint de dos semanas con la planificación, una reunión diaria por día, la revisión y la retrospectiva, y sus tiempos máximos.](../imagenes/reuniones-sprint.svg)
 
 ### 📖 Explicación
 

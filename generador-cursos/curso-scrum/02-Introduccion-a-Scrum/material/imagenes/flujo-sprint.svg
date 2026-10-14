@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Flujo de un sprint</title>
+<desc id="d">Ciclo de Scrum: la lista del producto alimenta la planificación del sprint; el sprint, con su reunión diaria, produce un incremento; luego vienen la revisión y la retrospectiva, y empieza el siguiente sprint.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="898" height="458" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="450" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Flujo de un sprint (duración fija: un mes o menos)</text>
+<rect x="40" y="70" width="180" height="76" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="130.0" y="103.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Lista del producto</text>
+<text x="130.0" y="121.55" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2937">la ordena el Product Owner</text>
+<rect x="260" y="70" width="180" height="76" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="350.0" y="103.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Planificación</text>
+<text x="350.0" y="123.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">del sprint</text>
+<rect x="480" y="70" width="180" height="76" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="570.0" y="103.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Sprint</text>
+<text x="570.0" y="123.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">con reunión diaria</text>
+<rect x="700" y="70" width="160" height="76" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="780.0" y="103.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Incremento</text>
+<text x="780.0" y="123.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">utilizable</text>
+<path d="M220 108 H258" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M440 108 H478" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M660 108 H698" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="700" y="250" width="160" height="76" rx="12" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="780.0" y="283.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Revisión</text>
+<text x="780.0" y="303.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">del sprint</text>
+<rect x="480" y="250" width="180" height="76" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="570.0" y="283.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Retrospectiva</text>
+<text x="570.0" y="303.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">del equipo</text>
+<path d="M780 146 V248" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M698 288 H662" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M480 288 H130 V148" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="300" y="276" text-anchor="middle" font-size="13" font-weight="400" fill="#64748b">Empieza el siguiente sprint</text>
+<text x="780" y="347" text-anchor="middle" font-size="12" font-weight="400" fill="#64748b">Inspecciona el producto</text>
+<text x="570" y="347" text-anchor="middle" font-size="12" font-weight="400" fill="#64748b">Inspecciona la forma de trabajar</text>
+<rect x="40" y="372" width="820" height="64" rx="10" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="450.0" y="390.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Artefactos y compromisos</text>
+<text x="450.0" y="408.55" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2937">Lista del producto → objetivo del producto · Lista del sprint → objetivo del sprint</text>
+<text x="450.0" y="426.55" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2937">Incremento → definición de terminado</text>
+</svg>

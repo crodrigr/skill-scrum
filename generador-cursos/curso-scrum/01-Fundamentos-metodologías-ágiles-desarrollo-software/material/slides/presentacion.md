@@ -87,9 +87,7 @@ Lo de la derecha **no se descarta**.
 
 ## 📋 Kanban
 
-```text
-Por hacer | En curso (máx. 3) | Hecho
-```
+![Tablero Kanban con las columnas por hacer, en curso (límite 3), probando (límite 2, alcanzado) y hecho.](../imagenes/kanban-tablero.svg)
 
 Visualizar el trabajo y limitar lo que está en curso.
 

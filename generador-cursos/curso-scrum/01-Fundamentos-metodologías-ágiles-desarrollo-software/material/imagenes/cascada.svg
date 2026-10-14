@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" width="900" height="390" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Cascada</title>
+<desc id="d">Las fases de Cascada se suceden una tras otra: requisitos, diseño, implementación, pruebas, despliegue y mantenimiento.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="898" height="388" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="450" y="34" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Cascada: cada fase termina antes de empezar la siguiente</text>
+<rect x="30" y="70" width="150" height="44" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="105.0" y="96.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Requisitos</text>
+<path d="M180 92 H280 V120" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="205" y="122" width="150" height="44" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="280.0" y="148.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Diseño</text>
+<path d="M355 144 H455 V172" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="380" y="174" width="150" height="44" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="455.0" y="200.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Implementación</text>
+<path d="M530 196 H630 V224" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="555" y="226" width="150" height="44" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="630.0" y="252.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Pruebas</text>
+<path d="M705 248 H805 V276" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="730" y="278" width="150" height="44" rx="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="805.0" y="295.4" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Despliegue y</text>
+<text x="805.0" y="314.4" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2937">mantenimiento</text>
+<text x="450" y="350" text-anchor="middle" font-size="13" font-weight="400" fill="#64748b">Cambiar algo de una fase anterior es caro: se descubre tarde.</text>
+</svg>

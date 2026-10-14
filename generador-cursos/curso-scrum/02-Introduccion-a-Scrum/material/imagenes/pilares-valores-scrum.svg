@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Pilares y valores de Scrum</title>
+<desc id="d">Los tres pilares del empirismo —transparencia, inspección y adaptación— se apoyan en los cinco valores: compromiso, enfoque, apertura, respeto y coraje.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="898" height="418" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="450" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#1f2937">Pilares y valores de Scrum</text>
+<polygon points="60,98 450,50 840,98" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="450" y="90" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Empirismo: decidir a partir de lo que se observa</text>
+<rect x="60" y="112" width="240" height="160" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="180.0" y="177.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Transparencia</text>
+<text x="180.0" y="197.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">El trabajo y el proceso</text>
+<text x="180.0" y="217.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">son visibles para todos</text>
+<rect x="330" y="112" width="240" height="160" rx="6" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="450.0" y="177.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Inspección</text>
+<text x="450.0" y="197.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">Se revisa con frecuencia</text>
+<text x="450.0" y="217.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">el avance hacia los objetivos</text>
+<rect x="600" y="112" width="240" height="160" rx="6" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="720.0" y="177.25" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Adaptación</text>
+<text x="720.0" y="197.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">Se ajusta lo que se desvía</text>
+<text x="720.0" y="217.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">lo antes posible</text>
+<path d="M302 192 H328" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<path d="M572 192 H598" fill="none" stroke="#64748b" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="60" y="290" width="780" height="90" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="450.0" y="330.1" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">Los cinco valores sostienen los tres pilares</text>
+<text x="450.0" y="351.1" text-anchor="middle" font-size="16" font-weight="400" fill="#1f2937">Compromiso · Enfoque · Apertura · Respeto · Coraje</text>
+</svg>

@@ -35,9 +35,13 @@ metodologías ágiles, para poder contrastarlas.
 
 ## ✅ Resultado esperado
 
+![Fases de Cascada en escalera: requisitos, diseño, implementación, pruebas, y despliegue y mantenimiento.](../imagenes/cascada.svg)
+
 | | Cascada | Prototipado | Espiral |
 |---|---|---|---|
 | Cómo se organiza el sistema de turnos | Todo secuencial por fases | Maquetas que el personal prueba | Vueltas que empiezan por los riesgos |
 | Cuándo ve la clínica algo | Al final | Pronto, pero solo un prototipo | En cada vuelta, con versiones cada vez más completas |
 | Cuándo encaja | Procesos definidos y estables | Requisitos poco claros | Riesgos técnicos o de privacidad altos |
 | Riesgo principal | Descubrir errores tarde | Confundir prototipo con producto | Complejidad y costo |
+
+![Modelo en espiral: vueltas con cuatro actividades: determinar objetivos, evaluar y reducir riesgos, desarrollar y verificar, y planificar la siguiente vuelta.](../imagenes/espiral.svg)

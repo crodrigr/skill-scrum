@@ -74,11 +74,7 @@ El *Scrum Master* es facilitador, **no jefe**.
 
 ## 🔄 El flujo de un sprint
 
-```text
-Lista del producto → Planificación → Sprint → Incremento
-        ▲                                        │
-        └── Retrospectiva ◄── Revisión ◄─────────┘
-```
+![Flujo de un sprint: lista del producto, planificación, sprint con reunión diaria, incremento, revisión y retrospectiva.](../imagenes/flujo-sprint.svg)
 
 Duración fija: un mes o menos.
 

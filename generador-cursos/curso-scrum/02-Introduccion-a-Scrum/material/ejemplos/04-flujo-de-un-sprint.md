@@ -38,12 +38,7 @@ minuto. Los sprints del equipo duran **dos semanas**.
 
 ## ✅ Resultado esperado
 
-```text
-Lista del producto ──► Planificación ──► Sprint (2 semanas) ──► Incremento
-        ▲                                   │ reunión diaria         │
-        │                                                            ▼
-        └──────── Retrospectiva ◄──────── Revisión del sprint ◄──────┘
-```
+![Flujo de un sprint: lista del producto, planificación, sprint con reunión diaria, incremento, revisión y retrospectiva.](../imagenes/flujo-sprint.svg)
 
 | Artefacto | En el proyecto de canchas de pádel | Compromiso |
 |---|---|---|
