@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" width="920" height="420" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Anatomía de una historia de usuario</title>
+<desc id="d">Una historia de usuario tiene un título, el formato como-quiero-para y un criterio de aceptación en formato dado-cuando-entonces.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="918" height="418" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="460" y="32" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">Anatomía de una historia de usuario</text>
+<rect x="40" y="60" width="620" height="70" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="350.0" y="101.3" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">H2 · Reservar un turno</text>
+<rect x="40" y="146" width="620" height="44" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="350.0" y="173.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">Como jugador</text>
+<text x="770" y="173" text-anchor="start" font-size="15" font-weight="700" fill="#64748b">Quién</text>
+<path d="M756 168 H664" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="40" y="198" width="620" height="44" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="350.0" y="225.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">quiero reservar un turno en una cancha libre</text>
+<text x="770" y="225" text-anchor="start" font-size="15" font-weight="700" fill="#64748b">Qué</text>
+<path d="M756 220 H664" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="40" y="250" width="620" height="44" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="350.0" y="277.25" text-anchor="middle" font-size="15" font-weight="400" fill="#1f2937">para asegurar mi lugar</text>
+<text x="770" y="277" text-anchor="start" font-size="15" font-weight="700" fill="#64748b">Por qué</text>
+<path d="M756 272 H664" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+<rect x="40" y="310" width="620" height="92" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="350.0" y="341.9" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Criterio de aceptación</text>
+<text x="350.0" y="360.9" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2937">Dado que elijo una cancha libre · Cuando confirmo la reserva</text>
+<text x="350.0" y="379.9" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2937">Entonces la cancha queda reservada a mi nombre</text>
+<text x="770" y="361" text-anchor="start" font-size="15" font-weight="700" fill="#64748b">Cómo se verifica</text>
+<path d="M756 356 H664" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#ah)"/>
+</svg>

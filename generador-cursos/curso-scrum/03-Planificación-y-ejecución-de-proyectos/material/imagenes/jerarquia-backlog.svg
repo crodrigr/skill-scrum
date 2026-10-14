@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 470" width="920" height="470" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Del objetivo del producto a las tareas</title>
+<desc id="d">Jerarquía del Product Backlog: el objetivo del producto se divide en épicas, cada épica en historias de usuario y cada historia en tareas del equipo.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker></defs>
+<rect x="1" y="1" width="918" height="468" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+<text x="460" y="32" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2937">De la idea a las tareas</text>
+<text x="910" y="88" text-anchor="end" font-size="13" font-weight="700" fill="#64748b">Objetivo</text>
+<text x="910" y="180" text-anchor="end" font-size="13" font-weight="700" fill="#64748b">Épicas</text>
+<text x="910" y="280" text-anchor="end" font-size="13" font-weight="700" fill="#64748b">Historias</text>
+<text x="910" y="338" text-anchor="end" font-size="13" font-weight="700" fill="#64748b">Tareas (de H2)</text>
+<rect x="230" y="56" width="560" height="56" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="510.0" y="79.4" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Objetivo del producto</text>
+<text x="510.0" y="98.4" text-anchor="middle" font-size="14" font-weight="400" fill="#1f2937">Reservar una cancha en menos de un minuto</text>
+<rect x="140" y="150" width="166" height="50" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="223.0" y="179.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">E1 Buscar y reservar</text>
+<line x1="223" y1="138" x2="223" y2="150" stroke="#64748b" stroke-width="2"/>
+<rect x="320" y="150" width="166" height="50" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="403.0" y="179.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">E2 Pagos y seña</text>
+<line x1="403" y1="138" x2="403" y2="150" stroke="#64748b" stroke-width="2"/>
+<rect x="500" y="150" width="166" height="50" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="583.0" y="179.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">E3 Gestionar reservas</text>
+<line x1="583" y1="138" x2="583" y2="150" stroke="#64748b" stroke-width="2"/>
+<rect x="680" y="150" width="166" height="50" rx="12" fill="#ccfbf1" stroke="#0d9488" stroke-width="2"/>
+<text x="763.0" y="179.55" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">E4 Administración</text>
+<line x1="763" y1="138" x2="763" y2="150" stroke="#64748b" stroke-width="2"/>
+<line x1="223" y1="138" x2="763" y2="138" stroke="#64748b" stroke-width="2"/>
+<line x1="510" y1="112" x2="510" y2="138" stroke="#64748b" stroke-width="2"/>
+<rect x="96" y="250" width="154" height="50" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="173.0" y="279.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">H1 Ver canchas libres</text>
+<line x1="173" y1="238" x2="173" y2="250" stroke="#64748b" stroke-width="2"/>
+<rect x="260" y="250" width="154" height="50" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="337.0" y="279.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">H2 Reservar un turno</text>
+<line x1="337" y1="238" x2="337" y2="250" stroke="#64748b" stroke-width="2"/>
+<rect x="424" y="250" width="154" height="50" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="501.0" y="279.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">H3 Confirmación</text>
+<line x1="501" y1="238" x2="501" y2="250" stroke="#64748b" stroke-width="2"/>
+<rect x="588" y="250" width="154" height="50" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="665.0" y="279.2" text-anchor="middle" font-size="12" font-weight="700" fill="#1f2937">H4 Filtrar por tipo</text>
+<line x1="665" y1="238" x2="665" y2="250" stroke="#64748b" stroke-width="2"/>
+<line x1="173" y1="238" x2="665" y2="238" stroke="#64748b" stroke-width="2"/>
+<line x1="223" y1="200" x2="223" y2="238" stroke="#64748b" stroke-width="2"/>
+<rect x="30" y="360" width="164" height="46" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="112.0" y="387.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">Diseñar pantalla</text>
+<line x1="112" y1="348" x2="112" y2="360" stroke="#64748b" stroke-width="2"/>
+<rect x="206" y="360" width="164" height="46" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="288.0" y="387.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">Construir la función</text>
+<line x1="288" y1="348" x2="288" y2="360" stroke="#64748b" stroke-width="2"/>
+<rect x="382" y="360" width="164" height="46" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="464.0" y="387.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">Guardar la reserva</text>
+<line x1="464" y1="348" x2="464" y2="360" stroke="#64748b" stroke-width="2"/>
+<rect x="558" y="360" width="164" height="46" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="640.0" y="387.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">Probar el criterio</text>
+<line x1="640" y1="348" x2="640" y2="360" stroke="#64748b" stroke-width="2"/>
+<rect x="734" y="360" width="164" height="46" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+<text x="816.0" y="387.2" text-anchor="middle" font-size="12" font-weight="400" fill="#1f2937">Revisar con otra persona</text>
+<line x1="816" y1="348" x2="816" y2="360" stroke="#64748b" stroke-width="2"/>
+<line x1="112" y1="348" x2="816" y2="348" stroke="#64748b" stroke-width="2"/>
+<line x1="337" y1="300" x2="337" y2="348" stroke="#64748b" stroke-width="2"/>
+<text x="460" y="438" text-anchor="middle" font-size="12" font-weight="400" fill="#64748b">Cada nivel divide al anterior en piezas más pequeñas.</text>
+</svg>
