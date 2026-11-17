@@ -1,4 +1,5 @@
-# Solo se publica el material del curso. Todo lo demas
-# (specs, herramientas del generador, scripts sueltos) queda fuera de GitHub.
-/generador-cursos/*
-!/generador-cursos/curso-scrum
+# Artefactos de ejecucion y del editor
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
